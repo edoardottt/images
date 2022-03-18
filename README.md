@@ -1,1 +1,1 @@
-Here I store images for various repositories.
+Here I put images for other repositories.
