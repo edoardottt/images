@@ -1,6 +1,4 @@
-# images
-
-Here I put public images for other repositories.
+Here I put images for my repositories.
 
 ---------
 
