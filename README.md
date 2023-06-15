@@ -1,4 +1,4 @@
-Here I put images for my repositories.
+Images for READMEs of my repositories.
 
 ---------
 
