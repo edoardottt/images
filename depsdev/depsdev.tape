@@ -62,13 +62,12 @@ Set Width 1200
 Set Height 600
 
 Type "depsdev" Sleep 500ms  Enter
+Sleep 3s
+Type "depsdev info npm @colors/colors" Sleep 500ms  Enter
+Sleep 3s
+Type "depsdev info npm @colors/colors 1.5.0" Sleep 500ms  Enter
+Sleep 3s
+Type "depsdev deps npm @colors/colors 1.5.0" Sleep 500ms  Enter
+Sleep 3s
+Type "depsdev advisory GHSA-2qrg-x229-3v8q" Sleep 500ms  Enter
 Sleep 4s
-Type "depsdev info npm @colors/colors" Sleep 1s  Enter
-Sleep 3s
-Type "depsdev info npm @colors/colors 1.5.0" Sleep 1s  Enter
-Sleep 3s
-Type "depsdev deps npm @colors/colors 1.5.0" Sleep 1s  Enter
-Sleep 3s
-Type "depsdev advisory GHSA-2qrg-x229-3v8q" Sleep 1s  Enter
-Sleep 4s
-
