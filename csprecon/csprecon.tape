@@ -61,6 +61,6 @@ Set FontSize 16
 Set Width 1200
 Set Height 600
 
-Type "csprecon -l targets.txt" Sleep 500ms  Enter
+Type "csprecon -l targets.txt | pv -qL100 " Sleep 3s  Enter
 
-Sleep 5s
+Sleep 30s
