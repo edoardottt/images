@@ -1,4 +1,5 @@
 # VHS documentation
+#
 # Output:
 #   Output <path>.gif               Create a GIF output at the given <path>
 #   Output <path>.mp4               Create an MP4 output at the given <path>
@@ -56,7 +57,7 @@ Output favirecon.gif
 Require echo
 
 Set Shell "bash"
-Set FontSize 32
+Set FontSize 16
 Set Width 1200
 Set Height 600
 
