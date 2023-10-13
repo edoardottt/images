@@ -63,4 +63,4 @@ Set Height 600
 
 Type "favirecon -l targets.txt" Sleep 3s  Enter
 
-Sleep 5s
+Sleep 8s
