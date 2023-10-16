@@ -52,15 +52,15 @@
 #   Hide                            Hide the subsequent commands from the output
 #   Show                            Show the subsequent commands in the output
 
-Output examples/scilla.gif
+Output scilla.gif
 
 Require echo
 
 Set Shell "bash"
-Set FontSize 32
-Set Width 1200
-Set Height 600
+Set FontSize 17
+Set Width 1920
+Set Height 944
 
-Type "scilla subdomain -target google.com" Sleep 500ms  Enter
+Type "scilla subdomain -target google.com" Sleep 1500ms  Enter
 
-Sleep 5s
+Sleep 8s
