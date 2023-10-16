@@ -58,8 +58,8 @@ Require echo
 
 Set Shell "bash"
 Set FontSize 13
-Set Width 1200
-Set Height 600
+Set Width 1920
+Set Height 944
 
 Type "echo http://testphp.vulnweb.com/ | cariddi" Sleep 1500ms  Enter
 
