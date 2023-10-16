@@ -57,10 +57,10 @@ Output cariddi.gif
 Require echo
 
 Set Shell "bash"
-Set FontSize 32
+Set FontSize 13
 Set Width 1200
 Set Height 600
 
-Type "echo http://testphp.vulmweb.com/ | cariddi" Sleep 500ms  Enter
+Type "echo http://testphp.vulnweb.com/ | cariddi" Sleep 1500ms  Enter
 
-Sleep 5s
+Sleep 8s
