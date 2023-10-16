@@ -57,10 +57,10 @@ Output scilla.gif
 Require echo
 
 Set Shell "bash"
-Set FontSize 17
-Set Width 1920
-Set Height 944
+Set FontSize 16
+Set Width 1200
+Set Height 600
 
 Type "scilla subdomain -target google.com" Sleep 1500ms  Enter
 
-Sleep 8s
+Sleep 10s
