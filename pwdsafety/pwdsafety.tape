@@ -65,4 +65,3 @@ Type "pwdsafety" Sleep 1s  Enter
 Sleep 2s
 Type "password123" Sleep 1s  Enter
 Sleep 4s
-PageUp@3
