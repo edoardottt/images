@@ -57,7 +57,7 @@ Output cariddi.gif
 Require echo
 
 Set Shell "bash"
-Set FontSize 13
+Set FontSize 16
 Set Width 1920
 Set Height 944
 
