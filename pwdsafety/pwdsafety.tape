@@ -57,7 +57,7 @@ Output pwdsafety.gif
 Require echo
 
 Set Shell "bash"
-Set FontSize 14
+Set FontSize 13
 Set Width 1200
 Set Height 600
 
@@ -65,3 +65,4 @@ Type "pwdsafety" Sleep 1s  Enter
 Sleep 2s
 Type "password123" Sleep 1s  Enter
 Sleep 4s
+PageUp@3
