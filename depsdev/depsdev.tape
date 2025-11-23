@@ -63,9 +63,9 @@ Set Height 600
 
 Type "depsdev" Sleep 500ms  Enter
 Sleep 3s
-Type "depsdev info npm @colors/colors" Sleep 500ms  Enter
+Type "depsdev package npm @colors/colors" Sleep 500ms  Enter
 Sleep 3s
-Type "depsdev info npm @colors/colors 1.5.0" Sleep 500ms  Enter
+Type "depsdev package npm @colors/colors 1.5.0" Sleep 500ms  Enter
 Sleep 3s
 Type "depsdev deps npm @colors/colors 1.5.0" Sleep 500ms  Enter
 Sleep 3s
