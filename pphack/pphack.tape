@@ -52,7 +52,7 @@
 #   Hide                            Hide the subsequent commands from the output
 #   Show                            Show the subsequent commands in the output
 
-Output pphack2.gif
+Output pphack.gif
 
 Require echo
 
@@ -61,10 +61,11 @@ Set FontSize 16
 Set Width 1200
 Set Height 600
 
-Type "pphack -u https://edoardottt.github.io/pp-test/ " Sleep 3s  Enter
+Type "pphack -u https://edoardottt.github.io/pphack-test/ " Sleep 3s  Enter
 
 Sleep 2s
+Enter Enter
 
-Type "pphack -u -e https://edoardottt.github.io/pp-test/ " Sleep 3s  Enter
+Type "pphack -u https://edoardottt.github.io/pphack-test/ -e " Sleep 3s  Enter
 
 Sleep 5s
