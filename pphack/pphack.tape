@@ -67,4 +67,4 @@ Sleep 2s
 
 Type "pphack -u -e https://edoardottt.github.io/pp-test/ " Sleep 3s  Enter
 
-Sleep 5s
+Sleep 8s
